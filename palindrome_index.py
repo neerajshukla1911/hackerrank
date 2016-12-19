@@ -27,6 +27,6 @@ if __name__ == '__main__':
     f = sys.stdin
     T = int(f.readline())
     while T:
-        s = input()
+        s = f.readline()
         print(palindrome_index(s))
-    T -= 1
+        T -= 1
