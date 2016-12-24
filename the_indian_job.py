@@ -1,4 +1,6 @@
-""" Ice Cream Parlor
+"""
+PROBLEM STATEMENT
+-----------------
 link: https://www.hackerrank.com/challenges/the-indian-job
 """
 
